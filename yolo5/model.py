@@ -11,7 +11,9 @@ from tensorflow.keras.layers import Input, Lambda
 from tensorflow.keras.models import Model
 from tensorflow.keras.optimizers import Adam
 
-from yolo5.models.scaled_yolo4_csp_darknet import scaled_yolo4_csp_body
+from scaled_yolo4.models.scaled_yolo4_csp_darknet import scaled_yolo4_csp_body
+from yolo5.models.yolo5_darknet import yolo5_body
+from yolo5.models.yolo5_mobilenet import yolo5_mobilenet_body, yolo5lite_mobilenet_body
 
 from yolo5.loss import yolo5_loss
 from yolo5.postprocess import batched_yolo5_postprocess
@@ -25,9 +27,15 @@ from common.model_utils import add_metrics, get_pruning_model
 #   [model_function, backbone_length, pretrain_weight_path]
 #
 yolo5_model_map = {
+    'yolo5_small_darknet': [partial(yolo5_body, depth_multiple=0.33, width_multiple=0.50), 0, None],
+    'yolo5_medium_darknet': [partial(yolo5_body, depth_multiple=0.67, width_multiple=0.75), 0, None],
+    'yolo5_large_darknet': [partial(yolo5_body, depth_multiple=1.0, width_multiple=1.0), 0, None],
+    'yolo5_xlarge_darknet': [partial(yolo5_body, depth_multiple=1.33, width_multiple=1.25), 0, None],
     'scaled_yolo4_csp_darknet': [scaled_yolo4_csp_body, 0, None],
-}
 
+    'yolo5_mobilenet': [yolo5_mobilenet_body, 87, None],
+    'yolo5_mobilenet_lite': [yolo5lite_mobilenet_body, 87, None],
+}
 
 # A map of model type to construction info list for Tiny YOLOv5
 #
@@ -134,7 +142,7 @@ def get_yolo5_train_model(model_type, anchors, num_classes, weights_path=None, f
     return model
 
 
-def get_yolo5_inference_model(model_type, anchors, num_classes, weights_path=None, input_shape=None, confidence=0.1, elim_grid_sense=True):
+def get_yolo5_inference_model(model_type, anchors, num_classes, weights_path=None, input_shape=None, confidence=0.1, iou_threshold=0.4, elim_grid_sense=True):
     '''create the inference model, for YOLOv5'''
     #K.clear_session() # get a new session
     num_anchors = len(anchors)
@@ -153,7 +161,7 @@ def get_yolo5_inference_model(model_type, anchors, num_classes, weights_path=Non
         print('Load weights {}.'.format(weights_path))
 
     boxes, scores, classes = Lambda(batched_yolo5_postprocess, name='yolo5_postprocess',
-            arguments={'anchors': anchors, 'num_classes': num_classes, 'confidence': confidence, 'elim_grid_sense': elim_grid_sense})(
+            arguments={'anchors': anchors, 'num_classes': num_classes, 'confidence': confidence, 'iou_threshold': iou_threshold, 'elim_grid_sense': elim_grid_sense})(
         [*model_body.output, image_shape])
     model = Model([model_body.input, image_shape], [boxes, scores, classes])
 
