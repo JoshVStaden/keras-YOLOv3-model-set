@@ -1,0 +1,580 @@
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000031.jpg 804,962,952,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000061.jpg 787,692,918,861,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000091.jpg 771,565,909,713,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000121.jpg 669,477,846,679,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000151.jpg 535,603,661,747,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000181.jpg 429,645,589,827,0 1229,915,1427,1063,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000211.jpg 808,4,1103,405,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000271.jpg 918,0,1141,89,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000301.jpg 922,4,1200,219,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000331.jpg 893,0,1204,181,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000421.jpg 4,481,156,903,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000451.jpg 1566,384,1735,586,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000481.jpg 956,561,1145,814,0 1432,367,1617,532,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000511.jpg 1078,401,1293,633,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000541.jpg 1027,882,1251,1059,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000571.jpg 884,840,1103,1063,0 1091,915,1255,1055,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000631.jpg 1187,101,1385,308,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000661.jpg 1229,93,1419,262,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000691.jpg 1267,63,1427,245,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000721.jpg 1246,55,1453,224,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000751.jpg 1280,38,1469,236,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000781.jpg 1356,156,1571,371,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000811.jpg 1225,464,1423,683,1 623,1004,741,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000841.jpg 1057,439,1225,599,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000871.jpg 888,439,1145,696,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000901.jpg 897,468,1133,705,0 977,637,1112,840,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000931.jpg 947,468,1145,658,0 1002,675,1112,835,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000961.jpg 922,557,1192,802,0 1023,705,1187,861,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000991.jpg 1436,966,1613,1063,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001021.jpg 1280,894,1474,1059,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001051.jpg 733,865,909,1042,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001111.jpg 480,937,669,1059,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001141.jpg 909,705,1187,1034,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001171.jpg 842,637,1065,894,0 1040,751,1171,915,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001201.jpg 745,359,964,717,0 1120,173,1331,388,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001231.jpg 661,447,867,785,0 1217,30,1440,245,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001261.jpg 653,447,851,780,0 1091,118,1309,380,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001291.jpg 644,451,829,772,0 1032,215,1229,451,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001321.jpg 981,186,1179,435,1 589,308,787,641,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001351.jpg 627,287,804,599,0 943,240,1128,498,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001381.jpg 825,139,1078,447,0 1061,481,1246,742,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001411.jpg 779,101,1040,409,0 1192,329,1406,637,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001441.jpg 1187,101,1381,367,1 968,266,1183,595,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001471.jpg 813,359,989,620,0 1246,114,1440,338,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001501.jpg 724,553,897,776,0 1255,228,1427,464,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001531.jpg 733,548,905,789,0 1246,295,1444,510,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001561.jpg 1251,515,1448,726,1 728,759,888,987,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001591.jpg 1364,903,1579,1059,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001621.jpg 1411,447,1604,624,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001651.jpg 1360,342,1533,489,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001681.jpg 1465,245,1688,439,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001711.jpg 1023,641,1183,823,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001741.jpg 1175,160,1364,350,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001771.jpg 1263,4,1461,211,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001801.jpg 1036,802,1213,983,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001831.jpg 981,679,1158,835,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001891.jpg 888,451,1015,650,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001921.jpg 1082,882,1309,1055,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001951.jpg 771,671,947,937,0 1229,519,1377,742,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001981.jpg 682,308,842,536,0 1103,211,1360,426,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002011.jpg 1293,215,1545,489,1 956,333,1141,595,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002041.jpg 1179,354,1427,616,1 901,278,1120,553,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002071.jpg 893,671,1141,937,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002101.jpg 1179,245,1444,519,1 695,641,935,920,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002131.jpg 623,586,859,873,0 1171,122,1432,367,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002161.jpg 665,498,909,793,0 1162,257,1419,540,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002191.jpg 749,308,981,595,0 1145,186,1406,498,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002221.jpg 741,342,968,620,0 1103,266,1368,536,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002251.jpg 1120,224,1368,494,1 737,325,960,616,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002281.jpg 737,321,960,608,0 1095,236,1364,472,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002311.jpg 724,329,952,616,0 1133,202,1398,489,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002341.jpg 745,198,973,485,0 1693,430,1907,776,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002371.jpg 573,232,792,540,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002401.jpg 1537,215,1701,430,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002431.jpg 362,692,564,991,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002461.jpg 577,620,758,911,0 1571,485,1819,793,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002491.jpg 573,620,749,915,0 1082,253,1347,485,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002521.jpg 535,641,720,920,0 1175,143,1507,443,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002551.jpg 1377,515,1604,759,1 295,886,514,1059,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002581.jpg 1322,477,1541,721,1 817,527,1061,793,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002611.jpg 1432,595,1659,861,1 888,342,1069,570,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002641.jpg 1537,780,1773,1055,1 817,764,1048,1017,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002671.jpg 716,852,1141,1050,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002701.jpg 552,890,876,1059,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002731.jpg 783,844,1006,1055,0 1082,861,1352,1046,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002761.jpg 842,451,973,675,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002791.jpg 956,249,1112,468,0 1023,595,1133,797,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002821.jpg 1044,274,1255,629,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002941.jpg 834,477,1019,705,0 1352,683,1549,894,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002971.jpg 1373,274,1625,527,1 973,350,1149,561,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003001.jpg 623,519,905,911,0 1756,578,1912,928,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003031.jpg 1406,523,1634,797,1 459,540,741,911,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003061.jpg 173,460,531,920,0 1234,198,1478,451,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003091.jpg 1322,122,1604,430,1 8,650,383,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003121.jpg 1406,25,1756,426,1 282,240,678,688,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003151.jpg 720,0,1011,359,0 1213,4,1537,257,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003181.jpg 1196,4,1524,215,1 762,8,1057,274,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003211.jpg 1229,4,1562,232,1 800,0,1078,312,0 918,494,1095,633,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003241.jpg 825,4,1116,321,0 1213,0,1520,291,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003271.jpg 1242,4,1566,177,1 842,4,1213,384,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003301.jpg 1272,4,1587,177,1 851,8,1196,278,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003331.jpg 846,0,1204,283,0 1297,0,1617,139,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003361.jpg 741,0,1086,363,0 1196,0,1512,139,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003391.jpg 829,0,1133,346,0 1204,4,1533,160,1 884,472,1040,616,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003421.jpg 661,8,981,397,0 1107,4,1427,165,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003451.jpg 678,21,964,405,0 1128,4,1453,194,1 931,510,1086,641,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003481.jpg 733,13,1036,388,0 1179,4,1499,202,1 867,489,1078,629,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003511.jpg 754,4,1048,338,0 1200,25,1495,283,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003541.jpg 754,8,1065,489,0 1200,46,1503,308,1 1187,274,1385,371,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003571.jpg 615,207,918,658,0 1171,122,1457,367,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003601.jpg 699,198,985,612,0 1196,122,1495,367,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003631.jpg 724,169,1023,582,0 1217,76,1537,333,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003661.jpg 691,160,981,578,0 1179,80,1478,338,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003691.jpg 568,152,872,616,0 1137,38,1461,329,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003721.jpg 682,152,981,582,0 1183,186,1482,472,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003751.jpg 1171,181,1474,451,1 606,152,901,582,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003781.jpg 556,198,838,612,0 1120,211,1411,481,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003811.jpg 577,198,880,616,0 1141,152,1436,435,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003841.jpg 632,257,943,658,0 1183,55,1465,359,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003871.jpg 661,287,989,675,0 1217,13,1491,325,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003901.jpg 707,312,1023,675,0 1251,38,1524,350,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003931.jpg 733,312,1061,671,0 1280,4,1566,270,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003961.jpg 699,283,1011,662,0 1234,93,1516,380,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003991.jpg 619,300,914,688,0 1149,169,1423,430,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004021.jpg 615,262,909,654,0 1137,156,1411,435,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004051.jpg 627,219,926,616,0 1166,169,1444,435,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004081.jpg 644,219,935,616,0 1200,262,1495,523,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004111.jpg 564,249,867,658,0 1347,363,1642,679,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004141.jpg 1385,291,1731,565,1 505,253,813,662,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004171.jpg 1343,266,1642,544,1 467,249,771,658,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004201.jpg 1381,342,1625,641,1 463,270,771,675,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004231.jpg 467,270,771,679,0 1242,384,1507,671,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004261.jpg 341,295,720,789,0 1461,350,1731,688,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004291.jpg 514,608,901,975,0 1112,30,1549,287,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004321.jpg 568,494,964,831,0 1074,101,1478,350,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004351.jpg 552,515,931,861,0 1065,51,1478,316,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004381.jpg 623,603,1011,903,0 1082,34,1507,321,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004411.jpg 674,599,1061,882,0 1145,13,1571,291,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004441.jpg 674,565,1048,856,0 1196,63,1592,342,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004471.jpg 627,557,1006,852,0 1158,25,1587,325,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004501.jpg 594,548,964,848,0 1141,34,1537,312,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004531.jpg 602,574,968,869,0 1074,42,1469,308,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004561.jpg 640,586,1015,873,0 1074,59,1465,321,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004591.jpg 1225,68,1638,342,1 615,578,981,878,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004621.jpg 606,557,973,856,0 1246,38,1676,325,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004651.jpg 564,565,926,869,0 1356,101,1861,418,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004681.jpg 522,553,880,878,0 1284,165,1747,422,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004711.jpg 522,553,884,873,0 1171,59,1617,359,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004741.jpg 543,599,897,911,0 1229,68,1659,354,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004771.jpg 535,603,893,907,0 1091,59,1461,325,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004801.jpg 531,612,884,924,0 1158,131,1579,388,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004831.jpg 577,603,926,907,0 1141,114,1528,371,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004861.jpg 577,612,922,915,0 1229,173,1634,418,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004891.jpg 518,612,855,937,0 1280,160,1731,418,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004921.jpg 429,603,758,941,0 1183,131,1604,384,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004951.jpg 425,553,775,907,0 1263,122,1735,380,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004981.jpg 421,515,783,865,0 1318,80,1811,359,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005011.jpg 392,519,762,878,0 1166,68,1621,354,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005041.jpg 463,540,829,882,0 1192,127,1613,392,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005071.jpg 547,574,909,882,0 1192,165,1604,418,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005101.jpg 632,586,1002,886,0 1057,131,1461,384,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005131.jpg 682,620,1053,907,0 1065,152,1469,392,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005161.jpg 712,616,1086,903,0 1196,165,1604,413,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005191.jpg 674,591,1044,886,0 1078,122,1516,375,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005221.jpg 669,586,1032,882,0 1149,181,1613,426,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005251.jpg 577,561,926,869,0 1183,152,1579,401,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005281.jpg 312,489,615,852,0 1356,333,1655,599,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005311.jpg 8,523,366,937,0 1331,329,1587,578,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005341.jpg 4,527,408,928,0 1385,304,1651,586,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005371.jpg 67,477,472,873,0 1069,333,1339,595,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005401.jpg 80,468,497,861,0 1133,291,1415,574,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005431.jpg 1166,270,1465,565,1 261,532,598,932,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005461.jpg 1229,523,1634,975,1 1032,645,1381,970,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005491.jpg 1592,510,1912,920,1 855,683,1133,979,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005521.jpg 1187,848,1507,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005551.jpg 989,780,1221,1012,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005581.jpg 716,388,863,582,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005611.jpg 804,257,956,451,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005641.jpg 674,329,855,519,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005671.jpg 488,8,669,236,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005701.jpg 808,359,1015,557,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005731.jpg 451,426,648,586,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005761.jpg 1196,645,1385,878,1 518,730,804,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005791.jpg 1208,658,1432,924,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005821.jpg 1680,688,1907,1038,1 396,958,547,1067,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005851.jpg 434,561,615,764,0 1777,637,1916,958,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005881.jpg 535,388,712,574,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005911.jpg 215,375,413,578,0 1613,624,1912,949,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005941.jpg 897,582,1112,835,0 1440,413,1874,772,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005971.jpg 1389,447,1773,738,1 935,481,1149,730,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006001.jpg 956,460,1154,692,0 1394,439,1794,730,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006031.jpg 939,435,1149,667,0 1402,413,1794,700,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006061.jpg 935,430,1145,658,0 1335,451,1680,747,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006091.jpg 1314,439,1625,742,1 931,430,1141,675,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006121.jpg 884,447,1099,692,0 1276,460,1596,742,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006151.jpg 1183,510,1482,806,1 931,515,1175,776,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006181.jpg 1179,468,1461,717,1 935,519,1175,793,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006211.jpg 1137,202,1364,409,1 893,510,1145,810,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006241.jpg 893,532,1154,835,0 1112,224,1309,456,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006271.jpg 952,544,1217,835,0 1175,211,1360,413,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006301.jpg 1234,262,1495,527,1 952,548,1234,852,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006331.jpg 792,435,1032,717,0 1234,532,1533,789,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006361.jpg 872,338,1086,586,0 1301,456,1621,692,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006391.jpg 893,304,1103,548,0 1297,468,1600,713,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006421.jpg 846,329,1061,570,0 1255,456,1562,717,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006451.jpg 829,304,1065,565,0 1297,435,1642,679,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006481.jpg 838,329,1074,591,0 1221,418,1537,662,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006511.jpg 838,464,1053,751,0 1187,464,1482,747,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006541.jpg 712,422,914,692,0 1200,527,1457,818,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006571.jpg 627,312,851,565,0 1229,506,1512,780,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006601.jpg 640,300,855,553,0 1267,498,1566,772,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006631.jpg 648,300,859,553,0 1276,506,1579,806,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006661.jpg 1251,519,1528,806,1 653,295,893,561,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006691.jpg 749,287,977,544,0 1246,510,1516,793,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006721.jpg 1255,523,1541,818,1 737,325,952,565,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006751.jpg 1221,519,1474,797,1 888,333,1133,595,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006781.jpg 1187,515,1448,814,1 863,321,1112,591,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006811.jpg 1259,443,1512,785,1 918,515,1183,802,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006841.jpg 872,439,1078,683,0 1149,468,1440,810,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006871.jpg 691,489,931,742,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006901.jpg 644,456,897,700,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006931.jpg 1297,443,1587,785,1 594,510,867,780,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006961.jpg 518,586,783,894,0 1192,300,1444,565,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006991.jpg 531,570,779,949,0 1453,388,1718,730,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007021.jpg 1697,540,1895,856,1 535,586,745,958,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007051.jpg 977,582,1255,848,0 1731,662,1907,958,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007081.jpg 1078,510,1339,802,0 1356,548,1613,882,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007111.jpg 1448,553,1827,915,1 909,515,1179,797,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007141.jpg 829,342,1036,608,0 1381,464,1773,814,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007171.jpg 838,291,1040,544,0 1360,397,1752,721,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007201.jpg 821,333,1040,595,0 1331,397,1752,709,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007231.jpg 1331,435,1718,717,1 842,388,1048,633,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007261.jpg 1293,439,1663,730,1 834,392,1061,641,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007291.jpg 796,409,1002,679,0 1322,464,1697,759,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007321.jpg 1335,506,1752,810,1 846,367,1023,620,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007351.jpg 1255,485,1571,780,1 905,430,1082,658,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007381.jpg 1242,477,1537,772,1 909,464,1091,683,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007411.jpg 1251,544,1491,806,1 733,190,964,502,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007441.jpg 1221,578,1457,827,1 762,4,994,207,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007471.jpg 1200,582,1423,835,1 754,0,1002,177,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007501.jpg 1162,557,1406,827,1 724,4,1002,190,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007531.jpg 1171,553,1406,848,1 712,4,960,181,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007561.jpg 1213,523,1469,764,1 712,0,964,186,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007591.jpg 1175,561,1411,835,1 686,4,985,190,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007621.jpg 1179,557,1394,831,1 712,0,939,190,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007651.jpg 1154,553,1381,814,1 691,0,947,202,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007681.jpg 1183,565,1406,831,1 623,114,884,401,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007711.jpg 1225,591,1440,861,1 716,152,968,418,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007741.jpg 589,211,842,578,0 1318,641,1571,945,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007771.jpg 636,523,813,814,0 1469,409,1785,696,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007801.jpg 1533,4,1907,181,1 787,426,964,658,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007831.jpg 804,418,973,654,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007861.jpg 733,418,905,658,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007891.jpg 501,608,691,844,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007921.jpg 328,700,522,920,0 1575,548,1827,823,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007951.jpg 1634,426,1903,671,1 299,688,463,873,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007981.jpg 1545,426,1853,637,1 236,683,413,869,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008011.jpg 1486,363,1781,591,1 244,650,425,840,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008041.jpg 531,523,703,717,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008071.jpg 1524,861,1785,1063,1 695,527,901,755,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008101.jpg 766,709,1011,958,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008131.jpg 686,650,876,890,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008161.jpg 733,451,884,637,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008191.jpg 779,451,926,633,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008221.jpg 859,439,1011,616,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008251.jpg 779,553,926,713,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008281.jpg 804,831,939,991,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008311.jpg 749,764,884,924,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000031.jpg 1651,105,1916,502,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000061.jpg 1659,63,1912,553,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000091.jpg 1701,38,1912,553,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000121.jpg 493,873,678,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000151.jpg 143,789,328,979,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000181.jpg 316,705,476,886,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000361.jpg 741,810,1006,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000391.jpg 1394,878,1587,1063,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000421.jpg 1069,371,1364,645,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000451.jpg 1234,4,1457,198,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000481.jpg 1297,42,1520,312,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000511.jpg 1288,131,1541,354,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000541.jpg 1318,131,1533,342,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000571.jpg 1411,17,1659,249,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000601.jpg 387,793,695,1050,0 1225,76,1579,401,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000631.jpg 1389,375,1697,654,1 543,924,728,1059,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000661.jpg 1566,641,1869,861,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000691.jpg 1482,620,1811,835,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000721.jpg 834,439,1015,620,0 1739,709,1907,953,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000751.jpg 1583,667,1907,937,1 867,574,1036,776,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000781.jpg 1335,494,1659,726,1 935,772,1128,928,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000811.jpg 1116,460,1398,675,1 834,806,1086,920,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000841.jpg 1015,443,1276,658,1 859,578,1116,780,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000871.jpg 964,228,1339,570,1 901,460,1120,683,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000901.jpg 1065,316,1314,553,1 872,468,1095,700,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000931.jpg 1196,308,1427,599,1 754,468,968,696,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000961.jpg 1128,637,1364,827,1 560,608,771,852,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000000991.jpg 1032,485,1238,683,1 720,557,964,802,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001021.jpg 1086,388,1335,633,1 783,515,1011,747,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001051.jpg 1149,620,1402,835,1 636,553,842,793,0 1006,780,1061,823,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001081.jpg 1015,489,1251,700,1 741,540,968,785,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001111.jpg 977,464,1221,688,1 771,582,977,810,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001141.jpg 1326,274,1537,536,1 741,506,939,738,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001171.jpg 1057,329,1288,599,1 745,548,947,772,0 998,810,1065,861,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001201.jpg 985,477,1221,709,1 745,633,935,861,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001231.jpg 1288,468,1528,645,1 648,591,851,840,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001261.jpg 1213,502,1478,709,1 779,574,977,810,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001291.jpg 939,544,1179,764,1 808,586,998,840,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001321.jpg 615,645,783,894,0 1217,540,1377,734,1 952,814,1019,865,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001351.jpg 627,683,817,932,0 1360,426,1528,641,1 964,806,1040,869,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001381.jpg 1036,388,1331,717,1 737,650,998,878,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001411.jpg 682,688,1002,890,0 1225,304,1533,565,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001441.jpg 429,730,737,979,0 1495,658,1764,865,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001471.jpg 1297,430,1469,675,1 560,654,872,886,0 973,776,1048,844,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001501.jpg 1032,608,1288,802,1 707,637,977,831,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001531.jpg 509,565,733,810,0 1175,671,1377,840,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001561.jpg 1179,468,1335,705,1 648,641,888,869,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001591.jpg 754,561,989,823,0 1259,742,1491,928,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001621.jpg 1137,536,1288,713,1 804,818,1023,991,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001651.jpg 1314,755,1491,1008,1 749,890,960,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001801.jpg 1158,25,1394,338,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001831.jpg 1356,17,1587,224,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001891.jpg 564,713,691,932,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001921.jpg 771,498,893,717,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000001981.jpg 1276,553,1469,861,1 627,747,779,1008,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002011.jpg 1389,207,1613,494,1 851,835,1166,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002041.jpg 1339,219,1554,494,1 720,688,1002,1000,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002071.jpg 1259,13,1524,346,1 771,143,1011,523,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002101.jpg 1377,4,1659,325,1 935,4,1187,304,0 792,8,989,173,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002131.jpg 1158,38,1486,578,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002161.jpg 1133,4,1440,224,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002191.jpg 1032,439,1213,772,1 943,291,1044,477,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002221.jpg 1642,494,1912,928,1 324,287,543,570,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002251.jpg 1512,827,1714,1055,1 345,945,518,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002281.jpg 1032,726,1200,920,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002311.jpg 1175,540,1389,738,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002341.jpg 1331,17,1583,232,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002371.jpg 1453,59,1659,295,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002401.jpg 1558,38,1768,300,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002431.jpg 1558,89,1760,312,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002461.jpg 1684,4,1907,228,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002491.jpg 787,570,1002,688,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002521.jpg 800,844,1032,1050,0 1621,616,1903,1034,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002551.jpg 674,928,863,1055,0 973,738,1091,958,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002581.jpg 669,861,829,1059,0 1095,262,1229,468,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002611.jpg 745,629,952,848,0 1137,0,1318,139,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002641.jpg 749,397,956,667,0 1078,0,1267,114,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002671.jpg 703,72,905,325,0 1032,4,1217,160,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002701.jpg 707,34,905,262,0 998,8,1192,207,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002731.jpg 931,4,1120,202,1 762,4,905,122,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002761.jpg 737,764,947,1017,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002791.jpg 1116,903,1419,1063,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002911.jpg 1217,523,1457,835,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002941.jpg 1259,658,1427,882,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000002971.jpg 1398,654,1604,962,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003001.jpg 695,823,888,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003031.jpg 1133,894,1314,1055,0 1373,907,1579,1055,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003061.jpg 842,915,981,1067,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003091.jpg 771,721,931,975,0 1263,472,1398,662,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003121.jpg 691,734,905,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003151.jpg 644,768,851,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003181.jpg 619,776,842,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003211.jpg 644,705,867,1042,0 1011,422,1305,738,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003241.jpg 636,709,859,1042,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003271.jpg 598,713,842,1042,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003301.jpg 611,738,880,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003331.jpg 644,751,909,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003361.jpg 712,755,985,1042,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003391.jpg 758,608,1099,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003421.jpg 1145,287,1474,780,0 1646,46,1903,409,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003451.jpg 1385,13,1676,321,0 1684,21,1869,333,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003481.jpg 1486,13,1726,291,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003511.jpg 1158,705,1381,1046,1 880,721,1040,953,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003541.jpg 939,953,1069,1050,0 1158,886,1360,1067,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003571.jpg 1082,637,1301,844,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003601.jpg 1036,287,1204,523,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003631.jpg 905,451,1069,713,0 1242,785,1482,1029,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003661.jpg 800,502,985,780,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003721.jpg 1229,570,1373,726,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003751.jpg 880,405,1074,599,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003781.jpg 1541,435,1806,675,1 787,764,1002,987,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003811.jpg 686,270,880,519,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003841.jpg 766,30,960,283,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003871.jpg 893,8,1133,240,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003901.jpg 72,536,493,861,1 1448,894,1672,1059,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003961.jpg 1701,789,1912,1046,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000003991.jpg 766,308,905,510,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004021.jpg 771,405,918,624,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004051.jpg 1634,742,1895,1050,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004081.jpg 1183,494,1343,650,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004111.jpg 632,869,771,1034,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004141.jpg 531,532,653,742,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004171.jpg 476,523,615,688,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004261.jpg 1053,928,1251,1055,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004291.jpg 1065,156,1309,451,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004321.jpg 1314,114,1499,367,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004351.jpg 1352,122,1583,304,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004381.jpg 1347,105,1562,295,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004411.jpg 1288,156,1512,346,1 775,523,973,776,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004441.jpg 1213,139,1465,359,1 893,139,1074,418,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004471.jpg 1179,4,1469,240,1 880,181,1061,354,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004501.jpg 926,25,1149,295,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004531.jpg 1166,30,1646,527,1 829,380,1011,683,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004561.jpg 922,519,1305,941,1 657,869,783,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004591.jpg 741,595,1158,1017,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004621.jpg 1032,751,1331,903,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004651.jpg 1394,624,1541,785,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004681.jpg 787,620,943,797,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004711.jpg 1002,683,1331,928,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004741.jpg 1251,367,1465,624,1 792,375,1019,713,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004771.jpg 1023,4,1276,257,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004801.jpg 1074,4,1314,262,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004831.jpg 1149,68,1347,409,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004861.jpg 1301,620,1537,903,1 952,624,1145,856,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004891.jpg 1183,637,1385,915,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004921.jpg 1263,996,1373,1055,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004951.jpg 1091,852,1339,1050,1 543,506,754,751,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000004981.jpg 960,502,1166,730,1 876,186,1040,388,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005011.jpg 943,561,1187,894,1 585,131,808,359,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005041.jpg 952,886,1221,1072,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005071.jpg 417,911,644,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005101.jpg 973,477,1238,726,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005131.jpg 855,236,1154,506,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005161.jpg 358,928,568,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005191.jpg 977,730,1213,1017,1 589,882,745,1046,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005221.jpg 813,937,1011,1067,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005251.jpg 771,797,1137,1042,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005281.jpg 1023,435,1402,873,1 657,502,1036,802,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005311.jpg 1457,4,1869,367,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005431.jpg 1175,42,1676,371,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005461.jpg 4,506,274,975,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005491.jpg 712,835,1002,1034,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005521.jpg 863,911,1339,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005581.jpg 1162,354,1377,616,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005641.jpg 636,629,783,852,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005671.jpg 1086,586,1259,717,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005701.jpg 215,489,408,700,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005731.jpg 800,683,1011,869,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005761.jpg 964,865,1171,1034,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005791.jpg 829,953,998,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005821.jpg 1398,979,1566,1067,1 935,945,1082,1067,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005851.jpg 733,430,880,637,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005881.jpg 804,494,973,662,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005911.jpg 1524,882,1764,1050,1 653,498,834,692,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005941.jpg 1373,810,1629,1050,1 648,645,817,806,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000005971.jpg 893,333,1065,544,0 1343,991,1495,1063,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006001.jpg 1158,641,1406,894,1 876,350,1036,565,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006031.jpg 1107,435,1288,700,1 947,409,1107,637,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006061.jpg 1107,397,1272,679,1 952,485,1112,700,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006091.jpg 1074,418,1251,705,1 935,506,1099,738,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006121.jpg 1154,409,1288,645,1 1015,413,1196,726,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006151.jpg 897,608,1116,831,0 1082,287,1263,489,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006181.jpg 779,405,1032,683,0 1411,532,1693,835,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006211.jpg 1676,194,1912,612,1 872,4,1381,477,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006241.jpg 1714,68,1907,557,1 775,13,1352,506,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006271.jpg 1693,190,1907,759,1 547,4,1162,565,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006301.jpg 1512,536,1869,1029,1 1040,93,1436,494,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006331.jpg 1377,633,1752,1055,1 808,0,1112,105,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006361.jpg 1272,308,1613,852,1 695,0,1120,152,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006391.jpg 1187,160,1482,578,1 914,4,1213,181,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006421.jpg 1158,148,1419,548,1 880,68,1162,456,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006451.jpg 1128,177,1339,599,1 888,84,1171,456,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006481.jpg 1267,650,1507,966,1 851,848,1027,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006511.jpg 829,848,981,1038,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006541.jpg 1406,852,1604,1029,1 762,548,922,730,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006571.jpg 897,409,1078,608,0 1419,447,1659,675,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006601.jpg 501,641,653,840,0 1436,283,1667,544,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006631.jpg 438,747,623,970,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006661.jpg 467,654,657,915,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006691.jpg 1192,304,1373,616,1 707,515,926,878,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006721.jpg 1145,658,1356,920,1 834,683,1112,958,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006751.jpg 804,802,1044,1029,1 653,894,825,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006781.jpg 619,599,813,856,0 1196,532,1453,747,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006811.jpg 1423,468,1726,692,1 472,401,682,683,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006841.jpg 223,658,455,962,0 1213,738,1503,945,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006871.jpg 598,304,846,553,0 1583,510,1857,751,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006901.jpg 1284,523,1520,806,1 421,325,623,595,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006931.jpg 438,742,589,962,0 1107,591,1322,806,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006961.jpg 467,844,623,1055,0 1444,321,1667,561,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000006991.jpg 644,823,787,1059,0 905,498,1107,726,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007051.jpg 1465,886,1663,1055,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007081.jpg 1229,810,1436,1021,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007111.jpg 1507,346,1684,519,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007141.jpg 1672,848,1891,1050,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007171.jpg 1116,810,1326,1038,1 922,840,1116,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007201.jpg 526,325,674,485,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007231.jpg 55,806,265,1042,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007381.jpg 813,342,973,591,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007411.jpg 821,397,1015,675,0 1297,941,1499,1059,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007441.jpg 935,679,1238,991,0 1196,806,1406,1038,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007471.jpg 1069,477,1394,810,0 1377,814,1583,1034,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007501.jpg 1082,489,1469,873,0 1474,780,1701,1029,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007531.jpg 1213,392,1634,764,0 1722,882,1907,1046,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007561.jpg 1149,468,1566,873,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007591.jpg 615,814,905,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007621.jpg 623,996,749,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007651.jpg 1065,367,1293,662,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007681.jpg 1078,13,1373,363,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007741.jpg 1040,413,1259,776,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007771.jpg 1579,780,1832,1059,1 543,928,703,1072,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007801.jpg 1444,730,1705,1042,1 564,962,703,1059,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007831.jpg 1389,527,1604,865,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007861.jpg 1436,481,1596,759,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007921.jpg 707,894,935,1059,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007951.jpg 1326,958,1461,1059,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000007981.jpg 1364,637,1558,827,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008011.jpg 459,844,745,1059,0 1629,958,1811,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008041.jpg 998,742,1280,1034,1 661,776,968,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008071.jpg 981,797,1301,1050,1 539,840,720,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008101.jpg 1040,878,1301,1059,1 535,962,644,1063,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008131.jpg 640,848,783,1059,0 1280,996,1448,1055,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008161.jpg 821,802,1128,1050,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008191.jpg 880,848,1107,1055,0 1293,873,1516,1059,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008221.jpg 1411,873,1629,1050,1 691,616,834,911,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008251.jpg 964,582,1364,920,0 1280,675,1575,1021,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008281.jpg 1162,608,1457,899,1 779,548,1162,844,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008311.jpg 1133,612,1377,920,1 787,540,1091,818,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008341.jpg 1251,456,1499,730,1 712,430,956,700,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008371.jpg 1326,409,1562,641,1 695,426,935,713,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008401.jpg 712,426,952,713,0 1343,380,1587,612,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008431.jpg 1352,367,1596,608,1 707,418,947,709,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008461.jpg 1352,359,1596,603,1 707,405,952,692,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008491.jpg 1352,342,1600,582,1 703,401,947,692,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008521.jpg 1343,325,1596,574,1 703,397,952,688,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008551.jpg 699,384,943,679,0 1326,316,1587,565,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008581.jpg 703,375,956,667,0 1272,266,1516,527,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008611.jpg 707,371,960,667,0 1238,245,1478,548,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008641.jpg 691,413,931,700,0 1276,413,1491,667,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008671.jpg 1259,477,1512,780,1 838,409,1149,721,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008701.jpg 855,388,1234,658,0 1297,435,1558,793,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008731.jpg 863,489,1352,726,0 1364,532,1697,755,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008761.jpg 1145,418,1415,696,1 829,388,1103,713,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008791.jpg 640,397,813,582,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008821.jpg 531,409,695,591,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008851.jpg 480,17,1844,755,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008911.jpg 1019,840,1196,962,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000008971.jpg 1112,8,1284,228,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009001.jpg 531,401,695,692,0 1385,692,1600,873,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009031.jpg 341,25,632,384,0 1217,797,1474,1038,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009151.jpg 1592,363,1853,586,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009181.jpg 493,780,796,1050,0 1368,713,1579,966,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009211.jpg 901,730,1166,1050,0 1208,802,1461,1063,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009241.jpg 1238,759,1491,1059,1 935,738,1175,1038,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009271.jpg 1074,354,1326,675,1 872,321,1057,629,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009301.jpg 766,316,1027,620,0 1074,304,1301,637,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009331.jpg 994,338,1229,616,1 724,359,981,603,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009361.jpg 787,468,1048,759,0 1057,481,1284,785,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009391.jpg 1107,481,1318,793,1 792,443,977,764,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009421.jpg 1091,472,1385,759,1 800,477,964,764,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009451.jpg 876,472,1057,705,0 1086,485,1251,692,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009481.jpg 1276,295,1743,747,1 867,316,1040,557,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009511.jpg 808,291,994,591,0 1284,447,1659,831,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009541.jpg 1200,582,1507,886,1 914,616,1179,823,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009571.jpg 1200,540,1520,827,1 846,548,1154,797,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009601.jpg 960,447,1192,641,0 1234,447,1491,705,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009631.jpg 1208,430,1461,717,1 926,435,1204,709,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009661.jpg 863,435,1149,751,0 1179,510,1453,759,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009691.jpg 1255,523,1448,738,1 914,443,1179,679,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009721.jpg 514,291,1040,759,0 1314,586,1512,742,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009751.jpg 615,312,1002,692,0 1436,667,1651,865,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009781.jpg 1411,654,1676,945,1 947,460,1187,751,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009811.jpg 1339,696,1571,979,1 1082,498,1234,751,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009841.jpg 1339,734,1575,1017,1 1124,502,1272,730,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009871.jpg 1347,730,1596,1029,1 1137,472,1272,721,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009901.jpg 1356,721,1608,1021,1 1137,464,1288,726,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009931.jpg 1356,709,1617,1021,1 1141,451,1314,721,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009961.jpg 1368,705,1625,1004,1 1145,443,1305,705,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000009991.jpg 1368,709,1629,1008,1 1141,430,1318,700,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010021.jpg 1373,696,1634,1012,1 1141,422,1335,696,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010051.jpg 1373,700,1638,1004,1 1141,409,1335,692,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010081.jpg 1377,700,1638,1004,1 1149,409,1343,688,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010111.jpg 1377,696,1634,996,1 1145,388,1331,688,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010141.jpg 1377,705,1608,979,1 1133,439,1284,692,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010171.jpg 1335,700,1520,983,1 1057,485,1208,764,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010201.jpg 884,523,1175,894,0 1120,645,1368,806,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010231.jpg 863,506,1112,734,0 1171,468,1385,679,1
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010261.jpg 1116,152,1305,342,1 804,143,1027,359,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010291.jpg 1133,202,1314,409,1 821,160,1057,384,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010321.jpg 497,599,665,911,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010351.jpg 531,941,699,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010381.jpg 526,962,686,1055,0
+/home/josh/yolo_and_rcnn_models/EpicKitchens/P01/P01_02/0000010411.jpg 531,1004,686,1055,0
